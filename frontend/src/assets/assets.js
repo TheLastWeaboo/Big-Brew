@@ -156,7 +156,7 @@ export const food_list = [
         name: "Vanilla Frappe",
         image: food_10,
         price: 22,
-        description: " A creamy and sweet blended drink made with vanilla syrup, milk, and ice, topped with whipped cream.",
+        description: "A creamy and sweet blended drink made with vanilla syrup, milk, and ice, topped with whipped cream.",
         category: "Frappe"
     }, {
         _id: "11",
@@ -256,7 +256,7 @@ export const food_list = [
         name: "Blueberry Fruit Tea",
         image: food_24,
         price: 12,
-        description: " A refreshing and antioxidant-rich drink made with blueberry flavoring, brewed tea, and often mixed with blueberry syrup or blueberry pieces.",
+        description: "A refreshing and antioxidant-rich drink made with blueberry flavoring, brewed tea, and often mixed with blueberry syrup or blueberry pieces.",
         category: "Fruit Tea"
     },
     {
